@@ -2,3 +2,5 @@
  Repositório de teste para aplicação do curso de Git e GitHub
 
  Criando o primeiro repositório.
+ 
+ Adicionando essa linha através do GitGub Web.
