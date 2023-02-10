@@ -3,4 +3,4 @@
 
  Criando o primeiro repositório.
  
- Adicionando essa linha através do GitGub Web.
+ Adicionando essa linha através do GitHub Web.
